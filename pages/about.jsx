@@ -29,7 +29,7 @@ export default function About() {
   return (
     <div className="px-10 sm:px-20 md:px-32 lg:mb-12 lg:px-60 mx-auto max-w-[75rem]">
       <Head>
-        <title>about ✦ pranjal</title>
+        <title>about ✦ mirasol</title>
         <link rel="icon" href="/Avatar-white.svg" />
       </Head>
       <main className="  max-w-screen ">
